@@ -4,8 +4,8 @@ A full-stack Lead Management CRM application built for the Websites.co.in intern
 
 ## Live Demo
 
-- Frontend: [your-vercel-link-here]
-- Backend: [your-render-link-here]
+- Frontend: (https://lead-management-crm1.vercel.app/)
+- Backend: https://lead-crm-backend-ifof.onrender.com/
 
 ## Features
 
